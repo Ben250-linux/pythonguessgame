@@ -31,4 +31,3 @@ elif userguess > answer:
     print(f"You didn't get it. The number was lower than that! The number was: {answer}")
 elif userguess < answer:
     print(f"You didn't get it. The number was higher than that! The number was: {answer}")
-    
