@@ -1,3 +1,4 @@
+# Made by Ben Hughes and it is free use I don't really care about it I was bored and that is why I made it
 import random
 import sys
 print("Welcome to the number guessing game!")
